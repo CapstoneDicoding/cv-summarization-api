@@ -1,0 +1,7 @@
+google-cloud-storage
+PyMuPDF
+pytesseract
+fpdf
+langchain
+groq
+Flask
