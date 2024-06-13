@@ -1,4 +1,4 @@
-# Dicoding Jobs Capstone Backend API
+# CV Summarization API
 
 This repository contains a CV Summarization with Machine Learning API built using Python and Flask. It is deployed using Google Cloud service that is Cloud Run. This guide will help you get started with setting up, running, and deploying the application.
 
